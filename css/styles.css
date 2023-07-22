@@ -1,0 +1,158 @@
+.avatar{
+  width: 15%;
+  margin-top: 150px;
+}
+.appImg{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+body{
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.btn{
+  margin-bottom: 20px;
+}
+
+.cloud1{
+  width: 10%;
+  position: relative;
+  left: 25%;
+  top: 20px;
+}
+.cloud2{
+  width: 10%;
+  position: absolute;
+  left: 15%;
+}
+.contact-me{
+  padding-bottom: 30px;
+}
+.name{
+  font-size: 3.5rem;
+  height: 50px;
+}
+hr{
+  border-style: none;
+  border-top: 8px dotted grey;
+  width: 5%;
+  margin-top: 150px;
+  margin-bottom: 110px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  text-shadow: 5px;
+  text-align: center;
+  color: #EF626C;
+  /* -webkit-text-stroke: 0.001px black;
+  -webkit-text-fill-color: #FFEBB4; */
+}
+h3{
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  font-size: 1.5rem;
+}
+.programmer{
+  font-size: 1.8rem;
+  height: 30px;
+}
+.top-container{
+  background-color: #FFEBB4;
+  padding-bottom: 20px;
+  padding-top: 10px;
+
+}
+.middle-container{
+  background-color: #BEF0CB;
+  padding: 1px;
+
+}
+.bottom-container{
+  background-color: #FFEBB4;
+  padding-bottom: 10px;
+}
+.footer-link{
+  margin: auto 10px;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.mountain{
+  width:25%;
+  position: relative;
+  top: 20px;
+}
+.managementImg{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.SofImg{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.skills{
+  width: 50%;
+  margin: auto;
+}
+.skill-row1{
+  margin: 100px auto 150px auto;
+  text-align: left;
+}
+.skill-row3{
+  margin: 150px auto 150px auto;
+  text-align: left;
+}
+.skill-row2{
+  margin: 150px auto 150px auto;
+  text-align: right;
+}
+.skill-row4{
+  margin: 150px auto 150px auto;
+  text-align: right;
+}
+.webImg{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.fistLine_botCont{
+  margin-top: 0;
+  padding-top: 40px;
+}
+.lastLine_midCont{
+  margin-bottom: 0;
+}
+.btn{
+  background: #FFEBB4;
+  background-image: -webkit-linear-gradient(top, #FFEBB4, #bdba07);
+  background-image: -moz-linear-gradient(top, #FFEBB4, #bdba07);
+  background-image: -ms-linear-gradient(top, #FFEBB4, #bdba07);
+  background-image: -o-linear-gradient(top, #FFEBB4, #bdba07);
+  background-image: linear-gradient(to bottom, #FFEBB4, #bdba07);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #064f18;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #8dc7eb;
+  background-image: -webkit-linear-gradient(top, #8dc7eb, #3498db);
+  background-image: -moz-linear-gradient(top, #8dc7eb, #3498db);
+  background-image: -ms-linear-gradient(top, #8dc7eb, #3498db);
+  background-image: -o-linear-gradient(top, #8dc7eb, #3498db);
+  background-image: linear-gradient(to bottom, #8dc7eb, #3498db);
+  text-decoration: none;
+}
